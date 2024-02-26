@@ -4,6 +4,7 @@ def calcola(operazione):
     global risultato
     ris=operazione
     risultato*=ris
+    
 #((3 + 4) * (5 + 2) * (3 * 3)) / 2
 if __name__ == "__main__":
     risultato=1
